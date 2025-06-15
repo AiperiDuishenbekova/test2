@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/test2/static/css/main.ccea9df4.css",
-    "main.js": "/test2/static/js/main.8c571467.js",
+    "main.css": "/test2/static/css/main.db0adfb1.css",
+    "main.js": "/test2/static/js/main.4e74b228.js",
+    "static/media/gipsof.jpeg": "/test2/static/media/gipsof.c22f5de2ec684e69503c.jpeg",
     "index.html": "/test2/index.html",
-    "main.ccea9df4.css.map": "/test2/static/css/main.ccea9df4.css.map",
-    "main.8c571467.js.map": "/test2/static/js/main.8c571467.js.map"
+    "main.db0adfb1.css.map": "/test2/static/css/main.db0adfb1.css.map",
+    "main.4e74b228.js.map": "/test2/static/js/main.4e74b228.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccea9df4.css",
-    "static/js/main.8c571467.js"
+    "static/css/main.db0adfb1.css",
+    "static/js/main.4e74b228.js"
   ]
 }
